@@ -4,6 +4,15 @@ function generateMarkdown(data) {
   return `# ${data.fileName}
   ## License and built with
 ${data.license ? data.license : ''} ${data.made ? data.made : ''}
+
+## Table of Contents 
+  [Description](#description)<br />
+  [Installation-Instructions](#installation-instructions)<br />
+  [Usage-Information](#usage)<br />
+  [Contributing-Guidelines](#contribution)<br />
+  [Testing-Instructions](#tests)<br />
+  [Questions](#questions)
+
 ## The Title of the application
 ${data.title}
 
