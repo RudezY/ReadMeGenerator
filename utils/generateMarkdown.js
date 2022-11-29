@@ -1,7 +1,7 @@
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.fileName}
+  return `${data.fileName}
   ## License and built with
 ${data.license ? data.license : ''} ${data.made ? data.made : ''}
 
