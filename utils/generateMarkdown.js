@@ -13,7 +13,7 @@ ${data.license ? data.license : ''} ${data.made ? data.made : ''}
   [Testing-Instructions](#tests)<br />
   [Questions](#questions)
 
-## The Title of the application
+## The Title of the Application
 ${data.title}
 
 ## Description

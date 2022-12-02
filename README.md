@@ -3,6 +3,8 @@
 This assignment was to create a README generator based of answering a series of question as well as create a table of contents
 that will go to each section when clicked on. There is a gif supplied in the assets folder that shows the process of filling out the information. 
 
+![HW7 Gif](./assets/Untitled_%20Nov%2028%2C%202022%2010_43%20PM.gif)
+
 ## User Story
 
 ```md
